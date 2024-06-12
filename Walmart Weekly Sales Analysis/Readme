@@ -1,6 +1,9 @@
-** Walmart Weekly Sales Analysis: Visualization with PowerBI **
-This analysis presents key insights from Walmart's weekly sales data, specifically from 2010 to 2012. The data is visualized using PowerBI, offering an in-depth look at Sales performance, trends, and other significant patterns. The extended report provides further details and a comprehensive analysis using MySQL queries and statistical analysis with Python. This detailed report can be found via the following link;
+TITLE: Walmart Weekly Sales Analysis: Visualization with PowerBI
+
+- This analysis presents key insights from Walmart's weekly sales data, specifically from 2010 to 2012. 
+- The data is visualized using PowerBI, offering an in-depth look at Sales performance, trends, and other significant patterns. 
+- The extended report provides further details and a comprehensive analysis using MySQL queries and statistical analysis with Python. This detailed report can be found via the following link;
+
 https://medium.com/@temidayolowoyeye/walmarts-weekly-sales-analysis-part-1-with-sql-and-power-bi-acbaca1a6802
-Walmart’s Weekly Sales Analysis Part 2: Statistical Analysis with Python
 https://medium.com/@temidayolowoyeye/walmart-weekly-sales-analysis-part-2-statistical-analysis-with-python-04cc6b9824d1
 
